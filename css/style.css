@@ -21,3 +21,7 @@
   color: white;
   flex-grow: 1;
 }
+
+.clicked{
+  background-color: #40c7e6;
+}
