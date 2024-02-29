@@ -9,12 +9,12 @@
   aspect-ratio: 1;
 }
 
-.square{
+.square {
   width: 80px;
   height: 80px;
   aspect-ratio: 1;
   background-color: #eeb32d;
-  border: 2px solid black;
+  border: 1px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
