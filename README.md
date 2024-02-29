@@ -23,4 +23,5 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
 1. Creare l'elemento HTML
 2. Associare la classe .square
 3. Associare il valore (numero)
-4. Associare un listener che al click mostri il valore e faccia il toggle della classe .clicked
+4. Associare un listener che al click cambi il colore della cella
+5. fare un console.log dei numeri corrispondenti alle celle cliccate
