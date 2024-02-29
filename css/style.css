@@ -1,6 +1,7 @@
 .main-wrapper{
   background-color: #191919;
   height: 100vh;
+  box-shadow: inset 0px 0px 20px 5px rgb(231, 82, 82);
 }
 
 
@@ -23,7 +24,7 @@
   border-radius: 20px;
   border: 2px solid black;
   font-size: 2.5rem;
-  box-shadow: inset 0px 0px 20px 5px rgb(58, 55, 55);
+  box-shadow: inset 0px 0px 20px 5px #e65340;
   background-color: #eeb32d;
   color: #e65340
   
